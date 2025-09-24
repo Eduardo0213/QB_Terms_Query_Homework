@@ -4,8 +4,8 @@
 <TermsQueryRs statusCode="0" statusSeverity="Info" statusMessage="Status OK">
 <StandardTermsRet>
 <ListID>80000001-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>1% 10 Net 30</Name>
 <IsActive>true</IsActive>
@@ -15,8 +15,8 @@
 </StandardTermsRet>
 <StandardTermsRet>
 <ListID>80000002-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>2% 10 Net 30</Name>
 <IsActive>true</IsActive>
@@ -26,8 +26,8 @@
 </StandardTermsRet>
 <StandardTermsRet>
 <ListID>80000003-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>Consignment</Name>
 <IsActive>true</IsActive>
@@ -37,8 +37,8 @@
 </StandardTermsRet>
 <StandardTermsRet>
 <ListID>80000004-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>Due on receipt</Name>
 <IsActive>true</IsActive>
@@ -47,9 +47,20 @@
 <DiscountPct>0.00</DiscountPct>
 </StandardTermsRet>
 <StandardTermsRet>
+<ListID>80000008-1758317272</ListID>
+<TimeCreated>2025-09-19T16:27:52-06:00</TimeCreated>
+<TimeModified>2025-09-19T16:27:52-06:00</TimeModified>
+<EditSequence>1758317272</EditSequence>
+<Name>Eduardo Terms</Name>
+<IsActive>true</IsActive>
+<StdDueDays>3</StdDueDays>
+<StdDiscountDays>0</StdDiscountDays>
+<DiscountPct>10.00</DiscountPct>
+</StandardTermsRet>
+<StandardTermsRet>
 <ListID>80000005-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>Net 15</Name>
 <IsActive>true</IsActive>
@@ -59,8 +70,8 @@
 </StandardTermsRet>
 <StandardTermsRet>
 <ListID>80000006-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>Net 30</Name>
 <IsActive>true</IsActive>
@@ -70,12 +81,23 @@
 </StandardTermsRet>
 <StandardTermsRet>
 <ListID>80000007-1758131687</ListID>
-<TimeCreated>2025-09-17T17:54:47+00:00</TimeCreated>
-<TimeModified>2025-09-17T17:54:47+00:00</TimeModified>
+<TimeCreated>2025-09-17T12:54:47-06:00</TimeCreated>
+<TimeModified>2025-09-17T12:54:47-06:00</TimeModified>
 <EditSequence>1758131687</EditSequence>
 <Name>Net 60</Name>
 <IsActive>true</IsActive>
 <StdDueDays>60</StdDueDays>
+<StdDiscountDays>0</StdDiscountDays>
+<DiscountPct>0.00</DiscountPct>
+</StandardTermsRet>
+<StandardTermsRet>
+<ListID>80000009-1758317285</ListID>
+<TimeCreated>2025-09-19T16:28:05-06:00</TimeCreated>
+<TimeModified>2025-09-19T16:28:05-06:00</TimeModified>
+<EditSequence>1758317285</EditSequence>
+<Name>Parikshith Terms</Name>
+<IsActive>true</IsActive>
+<StdDueDays>5</StdDueDays>
 <StdDiscountDays>0</StdDiscountDays>
 <DiscountPct>0.00</DiscountPct>
 </StandardTermsRet>
